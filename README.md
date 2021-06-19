@@ -1,3 +1,3 @@
-# springcloud-confit
+# springcloud-config
 
-springcloud-confit配置文件
+springcloud-config配置文件
